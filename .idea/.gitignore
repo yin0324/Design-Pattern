@@ -1,4 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-dir_to_ignore/*/out
+dir_to_ignore/out
+*.iml
