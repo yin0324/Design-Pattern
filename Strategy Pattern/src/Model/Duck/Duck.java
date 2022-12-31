@@ -1,4 +1,4 @@
-package Model.duck;
+package Model.Duck;
 
 import Interface.IFlyingBehaviour;
 

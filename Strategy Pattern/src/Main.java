@@ -1,8 +1,8 @@
 import Behaviour.flying.JetFlying;
 import Behaviour.flying.SimpleFlying;
 import Interface.IFlyingBehaviour;
-import Model.duck.CityDuck;
-import Model.duck.MountainDuck;
+import Model.Duck.CityDuck;
+import Model.Duck.MountainDuck;
 
 public class Main {
     public static void main(String[] args) {
