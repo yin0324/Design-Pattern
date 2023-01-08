@@ -1,5 +1,5 @@
-import Factory.ConcreteFactory.BeefBurgerRestaurant;
-import Factory.ConcreteFactory.VeggieBurgerRestaurant;
+import Factory.Concrete.BeefBurgerRestaurant;
+import Factory.Concrete.VeggieBurgerRestaurant;
 
 public class Main {
     public static void main(String[] args) {
